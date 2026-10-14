@@ -1,0 +1,19 @@
+Test Doğruluğu: 98.89%
+
+Sınıflandırma Raporu
+============================================================
+
+                           precision    recall  f1-score   support
+
+Basophil                      0.99       0.99      0.99       244
+Eosinophil                   0.99       0.99      0.99       624
+Erythroblast                 0.99       0.99      0.99       311
+Immature Granulocyte         0.98       0.97      0.97       579
+Lymphocyte                   0.99       0.99      0.99       243
+Monocyte                     0.99       0.98      0.98       284
+NNeutrophil                  0.98       0.98      0.98       666
+Platelet                     0.99       0.99      0.99       470
+
+accuracy                                          0.99      3421
+macro avg                    0.99       0.99      0.99      3421
+weighted avg                 0.99       0.99      0.99      3421

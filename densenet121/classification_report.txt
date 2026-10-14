@@ -1,0 +1,18 @@
+Test Accuracy: 99.09%
+
+Classification Report
+============================================================
+              precision    recall  f1-score   support
+
+    Basophil       0.97      0.97      0.97       244
+  Eosinophil       0.96      0.96      0.96       624
+Erythroblast       0.98      0.99      0.99       311
+ Immature G.       0.97      0.98      0.98       579
+  Lymphocyte       0.98      0.99      0.99       243
+    Monocyte       0.99      0.98      0.98       284
+  Neutrophil       0.98      0.97      0.97       666
+    Platelet       0.98      0.97      0.97       470
+
+    accuracy                           0.99      3421
+   macro avg       0.98      0.98      0.98      3421
+weighted avg       0.98      0.98      0.98      3421
